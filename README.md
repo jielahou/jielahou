@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jielahou
-- a HIT student.
-- E-mail: amllbGFob3VAZ21haWwuY29t
-- TG @jielahou
+- One of HIT students.
 - Hope to do sth USEFUL!
 
 <!---
